@@ -4,7 +4,7 @@ const SkylarWernethFacts = () => {
   return (
     <div>
       <h2 className="text-2xl mb-6 mt-6 ml-6">The Skylar Werneth Facts</h2>
-      <ul className="list list-inside ml-10 mb-10 space-y-4 max-w-4xl">
+      <ul className="list list-inside ml-10 mb-10 space-y-4 max-w-6xl">
         <li>
           When Skylar Werneth enters a room, phone reception improves by 300%.
         </li>
